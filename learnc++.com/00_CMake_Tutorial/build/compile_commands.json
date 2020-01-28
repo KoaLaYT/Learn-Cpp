@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/koalayt/Study/Learning-Cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/koalayt/Study/Learning-Cpp/build -I/MathFunctions   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/Hello.dir/Main.cpp.o -c /Users/koalayt/Study/Learning-Cpp/src/Main.cpp",
+  "file": "/Users/koalayt/Study/Learning-Cpp/src/Main.cpp"
+},
+{
+  "directory": "/Users/koalayt/Study/Learning-Cpp/build/MathFunctions",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++     -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/MathFunctions.dir/mysqrt.cpp.o -c /Users/koalayt/Study/Learning-Cpp/src/MathFunctions/mysqrt.cpp",
+  "file": "/Users/koalayt/Study/Learning-Cpp/src/MathFunctions/mysqrt.cpp"
+}
+]

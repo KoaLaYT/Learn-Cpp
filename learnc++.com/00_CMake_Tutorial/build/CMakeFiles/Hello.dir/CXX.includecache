@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/00_CMake_Tutorial/src/Main.cpp
+cmath
+-
+iostream
+-
+string
+-
+HelloConfig.h
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/00_CMake_Tutorial/src/HelloConfig.h
+MathFunctions/MathFunctions.h
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/00_CMake_Tutorial/src/MathFunctions/MathFunctions.h
+
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/00_CMake_Tutorial/src/MathFunctions/MathFunctions.h
+
+HelloConfig.h
+
