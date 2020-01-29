@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question03/src/Io/Io.cpp
+Io.h
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question03/src/Io/Io.h
+iostream
+-
+
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question03/src/Io/Io.h
+

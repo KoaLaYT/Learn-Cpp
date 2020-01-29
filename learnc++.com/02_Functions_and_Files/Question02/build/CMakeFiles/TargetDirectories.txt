@@ -1,0 +1,3 @@
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question02/build/CMakeFiles/rebuild_cache.dir
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question02/build/CMakeFiles/edit_cache.dir
+/Users/koalayt/Study/Learning-Cpp/learnc++.com/02_Functions_and_Files/Question02/build/CMakeFiles/Question02.dir
