@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.wxss": "css",
+        "*.wxml": "html",
+        "*.nvue": "vue",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "__config": "cpp",
+        "ios": "cpp"
+    }
+}
