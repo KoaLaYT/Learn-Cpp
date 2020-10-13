@@ -21,4 +21,4 @@ Window.o: Window.cpp
 
 # ==== MAIN FILE ====
 main: Graph.o GUI.o Window.o
-	$(CC) $(CXXFLAGS) Main.cpp Graph.o GUI.o Window.o $(LDINCLUDES)
+	$(CC) $(CXXFLAGS) -o app Main.cpp Graph.o GUI.o Window.o $(LDINCLUDES)
