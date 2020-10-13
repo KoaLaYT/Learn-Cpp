@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.wxss": "css",
+        "*.wxml": "html",
+        "*.nvue": "vue",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "__config": "cpp"
+    }
+}
