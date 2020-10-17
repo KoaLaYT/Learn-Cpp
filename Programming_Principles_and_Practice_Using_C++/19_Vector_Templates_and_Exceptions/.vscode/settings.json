@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.wxss": "css",
+        "*.wxml": "html",
+        "*.nvue": "vue",
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "cstring": "cpp",
+        "fstream": "cpp",
+        "list": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "memory_resource": "cpp",
+        "memory": "cpp"
+    }
+}
